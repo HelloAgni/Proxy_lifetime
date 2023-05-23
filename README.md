@@ -21,8 +21,10 @@ python lifetime.py
 
 ## Preview:  
 ### Login and captcha  
-https://github.com/HelloAgni/Proxy_lifetime/assets/93605568/1baa7f6b-e4a6-472f-be20-7ee62bda8029
+
+https://github.com/HelloAgni/Proxy_lifetime/assets/93605568/44016442-37ff-45c1-a04b-f9d5524f8eae
 
 ### Profile and results  
-https://github.com/HelloAgni/Proxy_lifetime/assets/93605568/64701421-e4a4-4f4c-91ca-a9ec05817a80
+
+https://github.com/HelloAgni/Proxy_lifetime/assets/93605568/697427ed-da0d-4679-949f-a714e1382484
 
